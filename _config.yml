@@ -1,0 +1,42 @@
+# Site settings
+title: Our wedding blog
+email: your-email@domain.com
+description: "Marie & Ben - Our in progress wedding blog."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: f6b430 #80B3FF
+  secondary: 538cc6 #FD6E8A
+  secondary-dark: 3973ac #A2122F
+  
+# Footer settings
+footer:
+  copyright: Marie and Benjamin
+  location: Copenhagen
+  social: Pretty much everywhere
+#  credits: Thanks Jérôme Lachaud for the Jekyll theme
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+#social:
+#  - title: twitter
+#    url: http://twitter.com/jekyllrb
+#  - title: facebook
+#    url:
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket 
+#    url: http://bitbucket.org/jekyll
+#  - title: github
+#    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3 Kompagnistraede, 
+  - line: 1208 Kobenhavn K
+  
+# Credits content
+credits: 'Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>. This theme was created by Jérôme Lachaud'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
