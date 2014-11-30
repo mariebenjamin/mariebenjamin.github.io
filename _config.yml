@@ -16,23 +16,11 @@ footer:
   social: Pretty much everywhere
 #  credits: Thanks Jérôme Lachaud for the Jekyll theme
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-#social:
-#  - title: twitter
-#    url: http://twitter.com/jekyllrb
-#  - title: facebook
-#    url:
-#  - title: stack-overflow
-#    url: http://stackoverflow.com/questions/tagged/jekyll
-#  - title: bitbucket 
-#    url: http://bitbucket.org/jekyll
-#  - title: github
-#    url: http://github.com/jekyll
-
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3 Kompagnistraede, 
+  - line: 3 Kompagnistræde, 1. sal
   - line: 1208 Kobenhavn K
+  - line: Danmark
   
 # Credits content
 credits: 'Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>. This theme was created by Jérôme Lachaud'

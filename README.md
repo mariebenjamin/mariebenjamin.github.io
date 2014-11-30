@@ -6,7 +6,6 @@ this implementation being entirely thanks to Jérôme Lachaud (https://jeromelac
 
 
 
-
 ## How to use
  - Place a image in `/img/portoflio/`
  - Create posts to display your projects. Use the follow as an example:
