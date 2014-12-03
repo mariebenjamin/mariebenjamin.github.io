@@ -11,18 +11,20 @@ description: Comment venir à Quinéville
 ---
 
 Venir en train
-==============
+--------------
 
 Depuis Paris
----------
+==============
 Prendre le train Paris-Cherbourg
 
 Depuis Montréal
---------------
+==============
 Prendre son temps..
 
 
 Venir en voiture
-================
+-----------------
+Direction Caen puis Cherbourg à partir de Paris
+
 To be continued..
 

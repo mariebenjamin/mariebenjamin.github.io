@@ -1,5 +1,5 @@
 # Site settings
-title: Our wedding blog
+title: Marie & Ben
 email: your-email@domain.com
 description: "Marie & Ben - Our in progress wedding blog."
 
@@ -24,6 +24,19 @@ address:
   
 # Credits content
 credits: 'Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>. This theme was created by Jérôme Lachaud'
+
+...
+defaults:
+  -
+    scope:
+      path: "_posts"
+      type: "pages"
+
+    values:
+      layout: "default"
+      author: "Marie & Ben"
+      category: "Our wedding"
+...
 
 # Build settings
 markdown: kramdown
