@@ -23,7 +23,7 @@ address:
   - line: Danmark
   
 # Credits content
-credits: 'Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>. This theme was created by Jérôme Lachaud'
+credits: 'Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>. Jekyll binding was created by <a href="https://github.com/jeromelachaud">Jérôme Lachaud</a>'
 
 ...
 defaults:
