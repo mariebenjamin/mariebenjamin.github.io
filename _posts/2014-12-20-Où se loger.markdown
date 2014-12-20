@@ -1,0 +1,23 @@
+---
+layout: default
+modal-id: 1
+date: 2014-12-20
+img: cabin.png
+alt: image-alt
+project-date: December 2014
+client: Marie & Ben
+category: Infos utiles
+description: Quelques adresses pour se loger dans le coin
+---
+
+# Hotel
+TBD
+
+# Camping
+TBD 
+
+# Auberge de jeunesse
+TBD
+
+# Gites
+TBD
