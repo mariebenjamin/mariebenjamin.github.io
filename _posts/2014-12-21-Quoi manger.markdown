@@ -10,12 +10,12 @@ category: Infos Utiles
 description: Quoi manger ? Quelques spécialités locales à ne pas rater !
 ---
 
-# Produits de la mer
-## Moules
+## Produits de la mer
+# Moules
 TBD 
 
-## Huitres
+# Huitres
 TBD
 
-# Produits du terroir
+## Produits du terroir
 TBD
