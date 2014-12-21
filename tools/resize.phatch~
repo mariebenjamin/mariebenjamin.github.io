@@ -8,7 +8,7 @@
               'label': 'Scale'},
              {'fields': {'As': u'<type>',
                          'File Name': u'<filename>',
-                         'In': u'<folder>/../<filename>',
+                         'In': u'<folder>/..',
                          'JPEG Quality': u'85',
                          'JPEG Size Maximum': '0 kb',
                          'JPEG Size Tolerance': '10 kb',
