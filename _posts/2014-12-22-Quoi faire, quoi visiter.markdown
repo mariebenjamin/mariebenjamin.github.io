@@ -15,8 +15,10 @@ Les maisons des cousins de Marie, l'école de voile, le bar de la Brèche et ses
 Surtout ne manquez pas la [biscuiterie de Quinéville](http://www.biscuiterie-quineville.com), pour une part de tarte ou des petits biscuits à emporter.\\
 L'église est un peu en hauteur, vous pourrez profiter de la vue sur la mer, avec en fond, Saint Vaast, la Hougue et Tatihou, et les îles Saint Marcouf.
 
+
 **Devinette**:
-Quel est le premier territoire libéré par les alliés en 1944 ? \\
+Quel est le premier territoire libéré par les alliés en 1944 ?
+
 
 **Réponse** :
 les îles Saint Marcouf, le 5 juin 1944 ! Aujourd'hui, elles peuvent être visitées en bateau, et sont une escale bien sympathique en attendant la marée.. ![test](img/saint_marcouf.jpg)
