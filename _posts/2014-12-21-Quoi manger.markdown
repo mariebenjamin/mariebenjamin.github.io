@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-12-21
-img: cake.png
+img: gourmandie.png
 alt: image-alt
 project-date: November 2014
 client: Marie & Ben
