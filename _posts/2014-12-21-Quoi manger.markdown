@@ -18,4 +18,4 @@ Les biscuits de la [biscuiterie de Quinéville](http://www.biscuiterie-quinevill
 Les frites du bar de la Brèche à Quinéville\\
 La boucherie Gibon à Quinéville\\
 Les crevettes de Bavéchien, pêchées à grande marée devant Quinéville, record à 583, sisi ! les couteaux, les coques et autres moules de la plage.\\
-Le cidre, le pommeau et le calvados bien sûr !\\
+Le cidre, le pommeau et le calvados bien sûr !
