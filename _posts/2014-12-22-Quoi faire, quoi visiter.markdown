@@ -6,9 +6,10 @@ img: circus.png
 alt: image-alt
 project-date: June 2014
 client: Marie & Ben
-category: Quoi faire, quoi visiter ?
+category: Infos utiles
+description: Quelques coins à ne pas rater
 ---
-## Quelques coins à ne pas rater
+
 # Saint-Vaast-la-Hougue
 TBD
 
