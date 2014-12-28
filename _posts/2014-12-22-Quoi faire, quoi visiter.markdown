@@ -31,6 +31,5 @@ il y a du vent... et du courant...
 ## Les plages du débarquement
 Les 5 plages du débarquement allié en 1944, lors de la bataille de Normandie : Utah Beach, Omaha Beach, Gold Beach, Juno Beach, Sword Beach, avec des restes du mur et des bunkers de la guerre.
 
-# Un peu plus loin...
-## Le Mont Saint Michel
+## Un peu plus loin : le Mont Saint Michel
 qu'on ne présente plus ! à 150km de Crosville-sur-Douve, profitez de votre escapade en Normandie pour (re)visiter la merveille.
