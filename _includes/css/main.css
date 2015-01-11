@@ -390,15 +390,24 @@ footer .footer-below {
     min-height: 100%;
     border: 0;
     border-radius: 0;
-    text-align: center;
+    text-align: left;
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
+    margin-bottom: 40px;
 }
 
 .portfolio-modal .modal-content h2 {
     margin: 0;
-    font-size: 3em;
+    font-size: 2em;
+    text-align: center;
+}
+
+.portfolio-modal .modal-content h3 {
+    margin: 0;
+    font-size: 2em;
+    text-align: center;
+    
 }
 
 .portfolio-modal .modal-content img {
