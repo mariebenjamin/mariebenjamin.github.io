@@ -2,7 +2,7 @@ Our wedding blog
 =========================
 
 Jekyll theme initially based on [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/),
-this implementation being entirely thanks to Jérôme Lachaud (https://jeromelachaud.github.io/freelancer-theme)
+this implementation being entirely thanks to [Jérôme Lachaud] (https://jeromelachaud.github.io/freelancer-theme). Our actual wedding blog is visible [here](http://mariebenjamin.github.io)
 
 
 
