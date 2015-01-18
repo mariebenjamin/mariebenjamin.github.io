@@ -460,3 +460,15 @@ footer .footer-below {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+
+.blueimp-gallery > .description {
+  position: absolute;
+  top: 30px;
+  left: 15px;
+  color: red;
+  display: none;
+}
+
+.blueimp-gallery-controls > .description {
+  display: block;
+}
