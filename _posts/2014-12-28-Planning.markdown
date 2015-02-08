@@ -10,4 +10,10 @@ category: Infos utiles
 description: Le planning de le journée
 ---
 
+Pour l'instant, on fait surtout ça :
+
+<iframe width="640" height="480" src="https://www.youtube.com/embed/z94IOOye8o8" frameborder="0" allowfullscreen></iframe>
+
+Ensuite, on espère bien pouvoir vous proposer ici un planning complet de la journée :)
+
 This is a <src="img/clock.svg" class="svg-inject clock"> clock !
