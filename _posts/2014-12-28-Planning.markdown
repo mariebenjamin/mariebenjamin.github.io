@@ -7,7 +7,7 @@ alt: image-alt
 project-date: June 2014
 client: Marie & Ben
 category: Infos utiles
-description: Le planning de le journée
+description: Le planning de la journée
 ---
 
 Pour l'instant, on fait surtout ça :
@@ -16,4 +16,6 @@ Pour l'instant, on fait surtout ça :
 
 Ensuite, on espère bien pouvoir vous proposer ici un planning complet de la journée :)
 
+<!--
 This is a <src="img/clock.svg" class="svg-inject clock"> clock !
+-->
