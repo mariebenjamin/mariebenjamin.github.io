@@ -8,6 +8,12 @@ body {
     overflow-x: hidden;
 }
 
+div {
+  text-align:center;
+  margin: 0 auto;
+  width:100%;
+}
+
 p {
     font-size: 20px;
 }
@@ -92,7 +98,8 @@ header .container {
 
 header img {
     display: block;
-    margin: 0 auto 20px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 header .intro-text .name {
@@ -390,7 +397,7 @@ footer .footer-below {
     min-height: 100%;
     border: 0;
     border-radius: 0;
-    text-align: left;
+    text-align: justify;
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;

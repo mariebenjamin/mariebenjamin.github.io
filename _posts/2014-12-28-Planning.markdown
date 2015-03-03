@@ -4,18 +4,49 @@ modal-id: 5
 date: 2014-12-22
 img: clock.png
 alt: image-alt
-project-date: June 2014
+project-date: June 2015
 client: Marie & Ben
 category: Infos utiles
 description: Le planning de la journée
 ---
 
-Pour l'instant, on fait surtout ça :
+## Initialement
+Pour commencer, le planning c'était surtout ça :
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/z94IOOye8o8" frameborder="0" allowfullscreen></iframe>
+<div>
+  <iframe width="640" height="480" src="https://www.youtube.com/embed/z94IOOye8o8" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+</div>
 
-Ensuite, on espère bien pouvoir vous proposer ici un planning complet de la journée :)
+Maintenant, c'est plutôt ça :
+<div>
+  <iframe width="384" height="384" src="img/clock_colour.svg" class="svg-inject clock" frameBorder="0" align="middle"> </iframe>
+</div>
 
-<!--
-This is a <src="img/clock.svg" class="svg-inject clock"> clock !
--->
+Le temps passe vite, et on est bien pressés de vous retrouver ! 
+
+# Le 6 Juin
+Tout doit se passer entre l'église de Quinéville, la plage de Quinéville et le château de Crosville.
+<div>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d83004.01710088163!2d-1.3684033716159103!3d49.449069408900314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!1i0!3e0!4m5!1s0x480b7b301f81b513%3A0xea6940e587830ee5!2s14+Rue+de+l&#39;%C3%89glise%2C+50310+Quin%C3%A9ville%2C+France!3m2!1d49.5118359!2d-1.2965605!4m5!1s0x480b7b29f4307bdb%3A0x4adba933728a74ae!2s2+Boulevard+maritime%2C+50310+Quin%C3%A9ville%2C+France!3m2!1d49.5155795!2d-1.2864305!4m4!1s0x0%3A0x297f7fb07a52ca54!3m2!1d49.386402999999994!2d-1.483641!5e0!3m2!1sen!2s!4v1425415879417&z=9" width="600" height="450" frameborder="0" style="border:0"></iframe>
+</div>
+
+### L'Église
+La cérémonie aura lieu à 14h30, à l'église de Quinéville. Le père Nicolas Rousselot célèbrera la messe. Le père Nicolas est un père Jésuite que nous avons tous les deux bien connu et apprécié à Ginette.
+Il était l'aumônier de la classe de sup de Benjamin, Marie faisait partie du groupe qu'il a accompagné en Inde, l'été après la spé. 
+Nous avons été très heureux de le retrouver 10 ans après, et encore plus qu'il ait accepté de nous marier.
+<div>
+  <iframe width="660" height="500" frameborder="0" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/42/%C3%89glise_Notre-Dame_de_Quin%C3%A9ville_%285%29.JPG/640px-%C3%89glise_Notre-Dame_de_Quin%C3%A9ville_%285%29.JPG"></iframe>
+</div>
+
+### La plage
+Si le temps est avec nous, on prévoit de profiter un peu de la plage, et de vous y retrouver pour une heure ou deux
+
+<div>
+  <img class="img-responsive" src="img/plage.png" alt="" align="middle">
+</div>
+
+### Le Château
+Ensuite, direction le château de Crosville, où le cocktail devrait commencer vers 18h30
+<div>
+  <img class="img-responsive" src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Crosville-sur-Douve_-_Ch%C3%A2teau_%284%29.JPG/640px-Crosville-sur-Douve_-_Ch%C3%A2teau_%284%29.JPG" alt="" align="middle">
+</div>

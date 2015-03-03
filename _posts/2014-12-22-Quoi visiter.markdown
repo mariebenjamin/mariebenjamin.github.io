@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2014-12-22
-img: circus.png
+img: circus_green.png
 alt: image-alt
 project-date: June 2014
 client: Marie & Ben
