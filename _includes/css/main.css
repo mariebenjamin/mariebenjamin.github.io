@@ -31,6 +31,10 @@ a.active {
     color: #{{ site.color.primary }};
 }
 
+#links {
+  text-align: center;
+}
+
 h1,
 h2,
 h3,
