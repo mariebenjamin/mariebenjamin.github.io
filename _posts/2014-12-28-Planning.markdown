@@ -31,9 +31,10 @@ Tout doit se passer entre l'église de Quinéville, la plage de Quinéville et l
 </div>
 
 ### L'Église
-La cérémonie aura lieu à 14h30, à l'église de Quinéville. Le père Nicolas Rousselot célèbrera la messe. Le père Nicolas est un père Jésuite que nous avons tous les deux bien connu et apprécié à Ginette.
-Il était l'aumônier de la classe de sup de Benjamin, Marie faisait partie du groupe qu'il a accompagné en Inde, l'été après la spé. 
-Nous avons été très heureux de le retrouver 10 ans après, et encore plus qu'il ait accepté de nous marier.
+La cérémonie aura lieu à 14h30, à l'église de Quinéville. Le père Nicolas Rousselot célèbrera la messe.\\
+Le père Nicolas est un père Jésuite que nous avons tous les deux bien connu et apprécié à Ginette.
+Il était l'aumônier de la classe de sup de Benjamin, Marie faisait partie du groupe qu'il a accompagné en Inde, l'été après la spé.  \\
+Nous avons été très heureux de le retrouver 10 ans après, et encore plus qu'il ait accepté de nous accompagner.
 <div>
   <iframe width="660" height="500" frameborder="0" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/42/%C3%89glise_Notre-Dame_de_Quin%C3%A9ville_%285%29.JPG/640px-%C3%89glise_Notre-Dame_de_Quin%C3%A9ville_%285%29.JPG"></iframe>
 </div>
@@ -42,8 +43,9 @@ Nous avons été très heureux de le retrouver 10 ans après, et encore plus qu'
 Si le temps est avec nous, on prévoit de profiter un peu de la plage, et de vous y retrouver pour une heure ou deux
 
 <div>
-  <img class="img-responsive" src="img/plage.png" alt="" align="middle">
+    <img class="img-responsive" src="img/plage.png" alt="" align="middle">
 </div>
+
 
 ### Le Château
 Ensuite, direction le château de Crosville, où le cocktail devrait commencer vers 18h30

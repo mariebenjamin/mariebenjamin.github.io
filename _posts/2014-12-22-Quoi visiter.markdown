@@ -27,7 +27,12 @@ les îles Saint Marcouf, le 5 juin 1944 ! Aujourd'hui, elles peuvent être visit
 ## Saint-Vaast-la-Hougue
 Son port, ses parcs à huîtres ... et ses tours Vauban bien sûr ! La Hougue et Tatihou, tours fortifiées construites à partir de 1694, pour défendre la baie de Saint Vaast. 
 
-<p><a href="http://commons.wikimedia.org/wiki/File:Saint-vaast-a-hougue-vue-generale.jpg#mediaviewer/File:Saint-vaast-a-hougue-vue-generale.jpg"><img alt="Image illustrative de l'article Saint-Vaast-la-Hougue" src="http://upload.wikimedia.org/wikipedia/commons/3/34/Saint-vaast-a-hougue-vue-generale.jpg" height="412" width="640"></a><br>« <a href="http://commons.wikimedia.org/wiki/File:Saint-vaast-a-hougue-vue-generale.jpg#mediaviewer/File:Saint-vaast-a-hougue-vue-generale.jpg">Saint-vaast-la-Hougue, vue générale</a> » par <a href="//commons.wikimedia.org/wiki/User:Nitot" title="User:Nitot">Nitot</a> — <span class="int-own-work">Travail personnel</span>. Sous licence <a title="Creative Commons Attribution-Share Alike 3.0" href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a> via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.</p>
+<p>
+  <a href="http://commons.wikimedia.org/wiki/File:Saint-vaast-a-hougue-vue-generale.jpg#mediaviewer/File:Saint-vaast-a-hougue-vue-generale.jpg">
+    <img alt="Image illustrative de l'article Saint-Vaast-la-Hougue" src="http://upload.wikimedia.org/wikipedia/commons/3/34/Saint-vaast-a-hougue-vue-generale.jpg" height="412" width="640">
+   </a>
+   <br>« <a href="http://commons.wikimedia.org/wiki/File:Saint-vaast-a-hougue-vue-generale.jpg#mediaviewer/File:Saint-vaast-a-hougue-vue-generale.jpg">Saint-vaast-la-Hougue, vue générale</a> » par <a href="//commons.wikimedia.org/wiki/User:Nitot" title="User:Nitot">Nitot</a> — <span class="int-own-work">Travail personnel</span>. Sous licence <a title="Creative Commons Attribution-Share Alike 3.0" href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a> via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.
+</p>
 
 Vous pourrez faire le tour de la Hougue, au sud de Saint Vaast, et pour les plus ambitieux, aller sur l'île de Tatihou. Tatihou est bien connue pour son jardin botanique et son micro-climat ;) Accessible à pied à marée basse en partant de la côte après le port et en traversant les parcs à huîtres ou en bateau amphibie depuis le port, quelle que soit la marée ! \\
 Un instant de gourmandise ? Poussez la porte de l'épicerie [Gosselin](http://www.maison-gosselin.fr) derrière le port. 

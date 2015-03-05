@@ -408,6 +408,11 @@ footer .footer-below {
     margin-bottom: 80px;
 }
 
+.portfolio-modal .img-responsive
+{
+  margin: 0 auto;
+}
+
 .portfolio-modal .modal-content h1 {
     margin: 0;
     margin-top: 50px;
