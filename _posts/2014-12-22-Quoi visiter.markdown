@@ -63,6 +63,14 @@ Les 5 plages du [débarquement allié en 1944](http://fr.wikipedia.org/wiki/D%C3
 </div>
 
 
+## La cité de la Mer
+Située à Cherbourg, dans les anciennes halles de départ des grands ferries transatlantiques (dont le [Titanic](http://en.wikipedia.org/wiki/RMS_Titanic) est l'un des représentants les plus malheureusement connus, avec peut être le [Lusitania](http://en.wikipedia.org/wiki/RMS_Lusitania) , mais aussi le [Normandie](http://en.wikipedia.org/wiki/SS_Normandie) ou le [France](http://en.wikipedia.org/wiki/SS_France_%281961%29) ) ; la [cité de la Mer](http://www.citedelamer.com/) présente en 4 thèmes (transatlantiques, sous-marin militaire, les fonds marins et les engins d'exploration) une large part de l'histoire maritime de la ville, et plus généralement de ce que les Hommes ont bien pu faire les pieds dans l'eau. Il est notamment possible de visiter le [Redoutable](http://en.wikipedia.org/wiki/French_submarine_Redoutable_%28S611%29), sous-marin nucléaire lanceur d'engin long de 128 mètres, ou de profiter des nombreux aquariums.. Un lieu qui vaut le détour !
+
+<div>
+    <img class="img-responsive" src="http://www.viaouest.com/IMG/news/titanic-retour-a-cherbourg-2012-cite-de-la-mer-manche50-novembre-2011.jpg" alt="" align="middle">
+</div>
+
+
 ## Un peu plus loin : le Mont Saint Michel
 qu'on ne présente plus ! à 150km de Crosville-sur-Douve, profitez de votre escapade en Normandie pour (re)visiter [la merveille](http://fr.wikipedia.org/wiki/Mont_Saint-Michel).
 
